@@ -1,0 +1,1 @@
+class EmptyCashException implements Exception {}
